@@ -1,0 +1,6 @@
+{
+  "name": "Anime Explorer",
+  "description": "A futuristic, cyber-neon themed Anime companion and discovery app powered by Gemini AI and Jikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
